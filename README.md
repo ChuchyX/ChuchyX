@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Eiseel Pena Ceballo</h1>
-<h3 align="center">A passionate Fullstack Web Developer from United States dedicated to building and optimizing user-focused websites and applications. Technically proficient and analytical problem solver with a huge passion for everything that involves web development dedicated to building and optimizing user-focused websites and applications. Technically proficient and analytical problem solver with a huge passion for everything that involves web development dedicated to building and optimizing user-focused websites and applications. Technically proficient and analytical problem solver with a huge passion for everything that involves web development.</h3>
+<h3 align="center">A passionate Fullstack Web Developer from United States dedicated to building and optimizing user-focused websites and applications. Technically proficient and analytical problem solver with a huge passion for everything that involves web development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuchyx&label=Profile%20views&color=0e75b6&style=flat" alt="chuchyx" /> </p>
 
