@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/slash_x11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slash_x11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jesus eiseel pena ceballo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus eiseel pena ceballo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jesus-pena-fullstack-web-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus eiseel pena ceballo" height="30" width="40" /></a>
 <a href="https://fb.com/chuchy zx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chuchy zx" height="30" width="40" /></a>
 <a href="https://instagram.com/chuchy.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chuchy.11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chuchyxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chuchyxx" height="30" width="40" /></a>
